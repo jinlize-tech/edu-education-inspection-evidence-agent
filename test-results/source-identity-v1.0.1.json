@@ -1,0 +1,17 @@
+{
+  "product_id": "JLZ-EDU-AG-021",
+  "repository_name": "edu-education-inspection-evidence-agent",
+  "version": "1.0.1",
+  "tested_source_commit": "53791d57127a180ff8a7fba4dbea3dd542c87cb6",
+  "tested_source_tree_sha": "42ac12837a1b3c31ba2298c9b390c884ff4190ce",
+  "package_path": "dist/edu-education-inspection-evidence-agent-v1.0.1.zip",
+  "package_sha256": "063196203D931A7CAF575AE5C7E42B510A7C338FF6EBAC4892EC82CA24A4A659",
+  "runtime_test_status": "LOCAL_TEST_PASS",
+  "runtime_test_count": 62,
+  "schema_validation_status": "SCHEMA_INSTANCE_VALIDATION_PASS",
+  "schema_validation_case_count": 16,
+  "model_runtime_status": "MODEL_RUNTIME_NOT_VERIFIED",
+  "workbuddy_validation": "NOT_EXECUTED",
+  "readme_repair": "PASS",
+  "plugin_author_name": "Education AI Tools Maintainers"
+}
