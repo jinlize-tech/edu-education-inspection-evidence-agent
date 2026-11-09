@@ -1,0 +1,63 @@
+{
+  "name": "edu-education-inspection-evidence-agent",
+  "version": "1.0.0",
+  "description": "A multi-step education agent for Education Inspection Evidence Pack.",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "270911570+yangsongbaofu-dot@users.noreply.github.com"
+  },
+  "agents": [
+    "./agents/edu-education-inspection-evidence-agent.md"
+  ],
+  "expertType": "agent",
+  "agentName": "edu-education-inspection-evidence-agent",
+  "displayName": {
+    "en": "Education Inspection Evidence Pack",
+    "zh": "年检与专项检查证据包"
+  },
+  "profession": {
+    "en": "Education Inspection Evidence Pack",
+    "zh": "年检与专项检查证据包"
+  },
+  "displayDescription": {
+    "en": "Multi-step professional workflow for Education Inspection Evidence Pack.",
+    "zh": "按检查主题建立证据目录，逐项核验制度、记录、资质、合同、财务与整改闭环，编排补证任务。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "15-Education",
+  "defaultInitPrompt": {
+    "en": "Help me complete Education Inspection Evidence Pack.",
+    "zh": "请帮我完成一次年检与专项检查证据包"
+  },
+  "plugin": "edu-education-inspection-evidence-agent",
+  "tags": [
+    {
+      "en": "Education",
+      "zh": "教培机构"
+    },
+    {
+      "en": "Professional Workflow",
+      "zh": "专业工作流"
+    },
+    {
+      "en": "Education Inspection Evidence Pack",
+      "zh": "年检与专项检查证据包"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me complete Education Inspection Evidence Pack.",
+      "zh": "请帮我完成一次年检与专项检查证据包"
+    },
+    {
+      "en": "Start with scope and evidence inventory.",
+      "zh": "请先确认范围并盘点资料"
+    },
+    {
+      "en": "Generate the final deliverables with risks and open questions.",
+      "zh": "请生成最终成果，并列出风险与待确认事项"
+    }
+  ],
+  "homepage": "https://github.com/jinlize-tech/edu-education-inspection-evidence-agent",
+  "license": "Apache-2.0"
+}

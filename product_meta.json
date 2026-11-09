@@ -1,0 +1,32 @@
+{
+  "number": 21,
+  "product_id": "JLZ-EDU-AG-021",
+  "candidate_id": "CAND-010",
+  "chinese_name": "年检与专项检查证据包",
+  "english_name": "Education Inspection Evidence Pack",
+  "repository_name": "edu-education-inspection-evidence-agent",
+  "repository_url": "https://github.com/jinlize-tech/edu-education-inspection-evidence-agent",
+  "product_type": "Agent",
+  "category": "09 合规与风险中心",
+  "batch": 1,
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "core_outputs": [
+    "检查证据目录",
+    "材料索引",
+    "缺口表"
+  ],
+  "optional_outputs": [
+    "责任人/截止时间",
+    "抽查问题",
+    "整改闭环",
+    "提交版目录"
+  ],
+  "high_risk": true,
+  "deterministic": false,
+  "scenario_count": 14,
+  "package_path": "dist/edu-education-inspection-evidence-agent-v1.0.0.zip",
+  "runtime_status": "MODEL_RUNTIME_NOT_VERIFIED",
+  "workbuddy_validation": "NOT_EXECUTED",
+  "status": "LOCAL_DEVELOPMENT_COMPLETE_PENDING_REMOTE_VERIFICATION"
+}
