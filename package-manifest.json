@@ -2,10 +2,10 @@
   "product_id": "JLZ-EDU-AG-021",
   "repository_name": "edu-education-inspection-evidence-agent",
   "product_type": "Agent",
-  "version": "1.0.0",
-  "package_path": "dist/edu-education-inspection-evidence-agent-v1.0.0.zip",
-  "sha256": "0E5195B29F46ED3CC30B012F6E14AD1FE12DEA46D8FCF57A6039619A0B2AFB4A",
-  "bytes": 46541,
+  "version": "1.0.1",
+  "package_path": "dist/edu-education-inspection-evidence-agent-v1.0.1.zip",
+  "sha256": "063196203D931A7CAF575AE5C7E42B510A7C338FF6EBAC4892EC82CA24A4A659",
+  "bytes": 47676,
   "entries": [
     "edu-education-inspection-evidence-agent/README.md",
     "edu-education-inspection-evidence-agent/PRODUCT_SPEC.md",
@@ -38,5 +38,9 @@
   "license": "Apache-2.0",
   "runtime_status": "MODEL_RUNTIME_NOT_VERIFIED",
   "workbuddy_validation": "NOT_EXECUTED",
-  "built_at": "2026-11-09T00:00:00+08:00"
+  "built_at": "2026-11-09T11:56:37.424947+00:00",
+  "previous_version": "1.0.0",
+  "previous_package_path": "dist/edu-education-inspection-evidence-agent-v1.0.0.zip",
+  "previous_package_sha256": "0E5195B29F46ED3CC30B012F6E14AD1FE12DEA46D8FCF57A6039619A0B2AFB4A",
+  "patch_reason": "README_USAGE_INSTALLATION_AND_PLATFORM_METADATA_FINALIZATION"
 }
